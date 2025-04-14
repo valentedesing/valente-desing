@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>João | Designer Gráfico</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #333;
+    }
+    header {
+      background-color: #d40000;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .intro {
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+    .skills {
+      background-color: #f5f5f5;
+      padding: 1.5rem;
+      margin-top: 2rem;
+      border-left: 5px solid #d40000;
+    }
+    .skills ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .skills li {
+      margin-bottom: 0.5rem;
+    }
+    footer {
+      background-color: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 3rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #d40000;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background-color: #b00000;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>João | Designer Gráfico</h1>
+    <p>Especialista em Marketing e Design</p>
+  </header>
+
+  <section>
+    <div class="intro">
+      <p>Me chamo João, tenho 24 anos, sou formado em Marketing e especializado em Designer Gráfico. Tenho domínio nos principais softwares do pacote Adobe (Photoshop, Illustrator, Premiere, After Effects), além de CapCut e Canva.</p>
+      <p>Procuro uma oportunidade no departamento de marketing. Tenho grande interesse em atividades de design, planejamento e execução de eventos, além de produções gráficas.</p>
+    </div>
+
+    <div class="skills">
+      <h2>Competências</h2>
+      <ul>
+        <li>Adobe Photoshop</li>
+        <li>Adobe Illustrator</li>
+        <li>Adobe Premiere</li>
+        <li>Adobe After Effects</li>
+        <li>CapCut</li>
+        <li>Canva</li>
+        <li>Planejamento de eventos</li>
+        <li>Execução de campanhas de marketing</li>
+        <li>Design gráfico para mídias sociais e impressos</li>
+      </ul>
+    </div>
+
+    <a class="btn" href="mailto:joao@email.com">Entre em contato</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 João - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html> criando landing pag
